@@ -1,0 +1,20 @@
+{
+  "name": "introducao-api-nodejs",
+  "version": "1.0.0",
+  "description": "Introdução API com Nodejs, Express e Mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L1nizera/Introducao-api-nodejs.git"
+  },
+  "keywords": ["NodeJs", "Express", "MySQL","API"],
+  "author": "Rhyan Augusto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L1nizera/Introducao-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/L1nizera/Introducao-api-nodejs#readme"
+}
